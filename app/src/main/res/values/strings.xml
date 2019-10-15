@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="greeting">Hello My Friend</string>
+    <string name="press_me">Press Me</string>
+</resources>
